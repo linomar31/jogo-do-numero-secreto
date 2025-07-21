@@ -2,7 +2,7 @@
 
 # Jogo do Número Secreto
 
-![Logo do Projeto](ia.png)
+![Logo do Projeto](img/ia.png)
 
 Este é um jogo simples em que o objetivo é adivinhar um número secreto gerado aleatoriamente. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 
@@ -30,7 +30,7 @@ Este é um jogo simples em que o objetivo é adivinhar um número secreto gerado
 
 ## Imagem do Projeto
 
-![Imagem do projeto](ia.png)
+![Imagem do projeto](img/ia.png)
 
 ## Contribuição
 
